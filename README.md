@@ -10,3 +10,4 @@
 ## Conclusion
 
 This repository was created as part of onboarding tasks to practice Git and version management.
+Learned how to create repositories and manage files using GitHub.
